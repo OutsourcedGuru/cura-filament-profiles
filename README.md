@@ -7,6 +7,11 @@ Having imported the necessary profiles, they may be selected from the Material p
 
 Right-mouse click on any image below and choose **Download Linked File** or **Save Target As**.  This should begin the download process for the underlying material file.  Save it to your computer (*making sure that the ends in .xml.fdm_material*) and then import it from Cura's settings option.
 
+It may be required to also click the Activate button within Cura's Materials Management screen.
+
+## Bugs
+At least one version of Cura has a bug which doesn't persistently save these custom settings after restarting the software.  At least having the profiles handy allows them to be re-imported (until they fix the bug or you've updated your Cura software).
+
 ## PLA Filaments
 
 ### Robo3D
