@@ -1,7 +1,7 @@
 # cura-filament-profiles
 A collection of custom material profiles ready to be imported into Cura.
 
-[Cura](https://github.com/Ultimaker/Cura) has a feature which allows you to create custom material profiles for the filaments you have purchased.  Here, I'm sharing the custom profiles which I've created for the filaments as I purchase and use them.  Importing the profile can be easily done from Cura's settings menu area under Materials.
+[Cura](https://github.com/Ultimaker/Cura) has a feature which allows you to create custom material profiles for the filaments you have purchased.  Here, I'm sharing the custom profiles which I've created for the filaments as I purchase and then use them in my own projects.  Importing the profile may be easily done from Cura's settings menu area under Materials.
 
 Having imported the necessary profiles, they may be selected from the Material pull-down list by manufacturer and name.  This should pull in the temperature settings as discovered from the documentation per each filament plus experimentation in some cases.
 
