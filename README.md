@@ -5,7 +5,7 @@ A collection of custom material profiles ready to be imported into Cura.
 
 Having imported the necessary profiles, they may be selected from the Material pull-down list by manufacturer and name.  This should pull in the temperature settings as discovered from the documentation per each filament plus experimentation in some cases.
 
-Right-mouse click on any image below and choose **Download Linked File**.  This should begin the download process for the underlying material file.  Save it to your computer and then import it from Cura's settings option.
+Right-mouse click on any image below and choose **Download Linked File** or **Save Target As**.  This should begin the download process for the underlying material file.  Save it to your computer (*making sure that the ends in .xml.fdm_material*) and then import it from Cura's settings option.
 
 ## PLA Filaments
 
